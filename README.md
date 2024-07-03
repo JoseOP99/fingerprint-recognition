@@ -25,9 +25,3 @@ El sistema está diseñado para proporcionar una solución robusta y segura para
 - Lector DigitalPersona 4500 configurado y conectado al backend.
 - JDK 8 o superior para compilar y ejecutar el backend Spring Boot.
 - Navegador web compatible con HTML5 y CSS3 para el frontend.
-
-## Instalación y Uso
-
-1. Clona el repositorio del backend en tu máquina local:
-   ```sh
-   git clone https://github.com/tu_usuario/backend-huella-digital.git
